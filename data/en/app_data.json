@@ -1,7 +1,8 @@
 {
   "translations" : [
     {
-      "test_key": "test_val"
+      "key": "key_value",
+      "value": "value_value"
     }
   ],
   "data" : [
