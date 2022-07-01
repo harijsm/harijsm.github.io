@@ -25,6 +25,10 @@
       "value": "Galerija"
     },
     {
+      "key": "close_modal",
+      "value": "Aizvērt"
+    },
+    {
       "key": "home_about_text",
       "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac posuere elit, a euismod diam. Etiam et metus varius, aliquet lorem sit amet, dictum justo. Fusce eu lobortis justo. Nullam nec cursus velit. In fringilla urna metus, at convallis elit pretium id. Donec rutrum ante eget orci rutrum dignissim vitae quis velit. Aenean bibendum dignissim nisl, et pharetra odio scelerisque eget. Aenean viverra elit non lectus mattis, in porttitor nisl tempus. Duis bibendum mattis dolor id luctus. Mauris porttitor, dui vel dignissim porta, lorem velit luctus ipsum, nec porttitor elit nisl quis sem. Vivamus pretium mauris eu neque vulputate mattis.\\n\\nNam imperdiet faucibus mi, ac faucibus urna interdum a. Ut mauris arcu, pretium nec ornare ac, tristique sed orci. Etiam hendrerit posuere lectus at elementum. Phasellus tincidunt aliquet nunc tempor vestibulum. Fusce fringilla lorem nec nibh gravida, sed vulputate nisi varius. Integer est tortor, consequat eu malesuada ut, posuere et ex. Nulla sollicitudin nunc id ipsum condimentum egestas. Etiam non euismod est, vitae lobortis ex. Ut sollicitudin varius nulla, ac faucibus nibh mattis et. Suspendisse mattis vulputate tempus."
     },
