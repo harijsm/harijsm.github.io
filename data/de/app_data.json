@@ -12,6 +12,18 @@
       "key": "home_button_contacts",
       "value": "Kontakte"
     },
+    {
+      "key": "tab_bar_home",
+      "value": "Start"
+    },
+    {
+      "key": "tab_bar_list",
+      "value": "Liste"
+    },
+    {
+      "key": "tab_bar_gallery",
+      "value": "Bildergalerie"
+    },
   ],
   "data" : [
     {

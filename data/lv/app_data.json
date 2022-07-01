@@ -12,6 +12,18 @@
       "key": "home_button_contacts",
       "value": "Kontakti"
     },
+    {
+      "key": "tab_bar_home",
+      "value": "Sākums"
+    },
+    {
+      "key": "tab_bar_list",
+      "value": "Saraksts"
+    },
+    {
+      "key": "tab_bar_gallery",
+      "value": "Galerija"
+    },
   ],
   "data" : [
     {
