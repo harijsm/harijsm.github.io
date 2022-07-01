@@ -1,9 +1,17 @@
 {
   "translations" : [
     {
-      "key": "key_value",
-      "value": "value_value"
-    }
+      "key": "home_button_about",
+      "value": "About"
+    },
+    {
+      "key": "home_button_terms",
+      "value": "Terms & Conditions"
+    },
+    {
+      "key": "home_button_contacts",
+      "value": "Contact"
+    },
   ],
   "data" : [
     {
