@@ -2,15 +2,15 @@
   "translations" : [
     {
       "key": "home_button_about",
-      "value": "About"
+      "value": "Par"
     },
     {
       "key": "home_button_terms",
-      "value": "Terms & Conditions"
+      "value": "Noteikumi"
     },
     {
       "key": "home_button_contacts",
-      "value": "Contacts"
+      "value": "Kontakti"
     },
   ],
   "data" : [

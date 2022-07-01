@@ -2,15 +2,15 @@
   "translations" : [
     {
       "key": "home_button_about",
-      "value": "About"
+      "value": "Impressum"
     },
     {
       "key": "home_button_terms",
-      "value": "Terms & Conditions"
+      "value": "Geschäftsbedingungen"
     },
     {
       "key": "home_button_contacts",
-      "value": "Contacts"
+      "value": "Kontakte"
     },
   ],
   "data" : [
